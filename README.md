@@ -1,0 +1,51 @@
+# Installation des serveurs et des services 420-W45-SF
+## UBR4375, hiver 2026
+
+### CALENDRIER
+
+Ce calendrier est donné à titre indicatif et peut être modifié en fonction des circonstances. Dans le cas des examens, les étudiants seront toujours avisés dans un délai raisonnable.  
+
+|Cours	|Date cours |Contenu|Exercices <br> Évaluations|  Remise exercice   |
+|----------:|:-------------:|----------------|:------:|------:|
+|1|	20 mai|Présentation du plan de cours <br> Présentation des concepts de bases <br> Exercice 1 - Installation Ubuntu|[Ex1](Exercices/Exercice01_InstallationClient.md)|26 mai|
+|2|	26 mai|Installation d'un serveur Linux avec LVM et configuration réseau	 |[Ex2](Exercices/Exercice02_InstallationServeur.md) et [Ex3](Exercices/Exercice03_GestionLVM.md)|2 juin|
+|3| 2 juin |Accès distant, les protocoles SSH/SCP |[Ex4](Exercices/Exercice04_PriseEnMainSrv.md)|9 juin|
+|4| 3 juin |Admin système les droits et accès |[Ex5](Exercices/Exercice05_AdminSysLinux.md)|9 juin|
+|5|	 9 juin |Admin système Noyau, processus et logs |[Ex6](Exercices/Exercice06_InstallationEnvTest.md)|16 juin|
+|6|	 16 juin |**TP 1 - Procédure d'installation d'un serveur** |**[TP1](TPs/TravailPratique01.md)**|23 juin|
+|7|	 18 juin |Docker	 |[Ex7](Exercices/Exercice07_PriseEnMainConteneur.md)|30 juin|
+|8|	 23 juin |Docker file	 |[Ex8](Exercices/Exercice08_DockerImage.md) |30 juin|
+|9|	 30 juin <br> **Teams** |Docker Réseau et volume|[Ex9](Exercices/Exercice09_DockerRzEtVolume.md) |7 juil.|
+|10| 3 juil. <br> **Teams** |**TP 2 - Docker** |**[TP2](TPs/TravailPratique02.md)**|8 juil.|
+|11| 7 juil. <br> **Teams** |**TP 2 - Docker** | ||
+|12| 8 juil. <br> **Teams** |Docker compose |[Ex10](Exercices/Exercice10_DockerCompose.md)|11 juil.|
+|13| 11 août <br> **Teams** |Présentation du service de résolution de nom DNS |[Ex11](Exercices/Exercice11_DNS.md)|14 août|
+|14| 14 août <br> **Teams** |Révision	 |||
+|15| 15 août |Apache, installation, config de base|[Ex12](Exercices/Exercice12_Apache.md)|25 août|
+|16| 20 août |**Examen partiel** |**Examen 1**||  
+|17| 25 août |Apache, modules et SSL	 |[Ex13](Exercices/Exercice13_Apache_modules-SSL.md)|3 sept.|
+|18| 27 août |Apache, installation d’un site Web et site virtuel|[Ex14](Exercices/Exercice14_Apache_SiteVirtuel.md)|3 sept.|
+|19| 3 sept. |Nginx, installation, config de base|[Ex15](Exercices/Exercice15_nginx.md)|8 sept.|
+|20| 4 sept. |Nginx, configurations avancées (reverse proxy et load balancer) |[Ex16](Exercices/Exercice16_nginx_LB.md)|8 sept.|  
+|21| 8 sept. |**TP3 - Mise en place d’un service Web (Docker Compose)**|**[TP3](TPs/TravailPratique03.md)**|15 sept.|
+|22| 10 sept. |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
+|23| 15 sept. |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
+|24| 17 sept. |Annulé|||
+|25| 22 sept. |Automatisation et Ansible|[Ex17](Exercices/Exercice17_AnsibleMiseEnPlace.md)|29 sept.|
+|26| 24 sept. |Automatisation mode AdHoc|[Ex18](Exercices/Exercice18_AnsibleModeAdHoc.md)|1 oct.|
+|27| 29 sept. |Automatisation PlayBook<br>**TP4 - Ansible**|[TP4](TPs/TravailPratique04.md)|6 oct.|
+|28| 1 oct. |**TP4 - Ansible**|||
+|29| 6 oct. |**Évaluation finale à caractère synthèse**|[EFCS](TPs/EFCS.md)|7 oct.|
+|30| 7 oct. |**Évaluation finale à caractère synthèse**|||
+
+### Récapitulatif de la pondération des évaluations sommatives
+
+|Évaluation | Pondération (en %) |
+|:-------------|:------:|
+|TP1 – Procédure d'installation d'un serveur| 10|
+|TP2 – Docker	|10|
+|TP3 - Mise en place d’un service Web (Docker compose)| 10|
+|TP4 - Orchestration de conteneurs avec Ansible et Docker Compose| 10|
+|Examen partiel	| 20|
+|Évaluation finale à caractère synthèse	 |30|
+|Réalisation des exercices	|10|
