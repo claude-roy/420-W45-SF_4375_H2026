@@ -34,9 +34,9 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |22|  <br>**Teams**|**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |23|  |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |24|  <br>**Teams**|Automatisation et Ansible|Ex17||
-|25|  <br>**Teams**|Automatisation mode AdHoc|Ex18 **(ER)**||
+|25|  <br>**Teams**|Automatisation mode AdHoc|Ex18||
 |26|  <br>**Teams**|Travail sur les exercices|||
-|27|  <br>**Teams**|Automatisation PlayBook|Ex19||
+|27|  <br>**Teams**|Automatisation PlayBook|Ex19 **(ER)**||
 |28|  <br>**Teams**|Travail sur les exercices|||
 |29|  <br>**Teams**|**Évaluation finale à caractère synthèse**|||
 |30|  |**Évaluation finale à caractère synthèse**|||
