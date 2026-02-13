@@ -1,5 +1,8 @@
 # Installation des serveurs et des services 420-W45-SF
-## UBR4375, hiver 2026
+## UBR4375, hiver 2026  
+### PROFESSEURS
+Emmanuel Garreau <egarreau@csfoy.ca>  
+Claude Roy <clroy@csfoy.ca>  
 
 ### CALENDRIER
 
