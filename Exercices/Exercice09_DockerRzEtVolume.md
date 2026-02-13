@@ -1,7 +1,6 @@
 # Exercice 9 - Docker, volume et stockage
 
 ### Informations
-- Évaluation : formative.
 - Durée estimée : 4 heures.
 - Système d'exploitation : Ubuntu client ou Windows.
 - Environnement : Docker.  
@@ -13,7 +12,7 @@
 - Distinguer les services à installer sur le réseau.  
 - Déterminer les étapes à entreprendre pour installer et configurer les services réseau. 
 
-Note : je vous recommande de vous créer un répertoire de travail nommé Exercice08.
+Note : je vous recommande de vous créer un répertoire de travail nommé Exercice09.
 
 ## Section 1 - Busybox
 
@@ -243,12 +242,6 @@ docker run --rm --name wordpress -d -e WORDPRESS_DB_HOST=172.17.0.2 -e WORDPRESS
 ```
 
 </details>
-
-
-## Pour vérification
-Remettre une capture d’écran de votre site WordPress et du `ps` affichant votre conteneur s'exécutant.  
-
-![Exemple](../images/Exerc09.png)
 
 ### Section 5.2 - Wordpress - Un début d'orchestration ?
 

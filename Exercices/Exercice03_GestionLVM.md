@@ -1,7 +1,6 @@
 # Exercice 3 – Gestion des disques LVM
 
 ### Informations
-- Évaluation : formative
 - Type de travail : individuel
 - Durée : 1 heure
 - Système d'exploitation : Linux Ubuntu client et Ubuntu serveur
@@ -117,9 +116,9 @@ df -H
 
 Note : L'extension d'un système de fichiers est une opération à risque modéré. Il est donc recommandé de sauvegarder l'intégralité de votre partition pour éviter toute perte de données.
  
-## Pour vérification
+## Vérification finale
 
-Remettre une capture d’écran des trois commandes suivantes, et ce pour les deux VMs (dans un seul fichier).
+Utilisez les trois commandes suivantes pour vérifier votre installation, et ce pour les deux VMs (dans un seul fichier).
 
 ```bash
 sudo pvs 

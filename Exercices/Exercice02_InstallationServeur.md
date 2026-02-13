@@ -1,7 +1,6 @@
 # Exercice 2 – Installation d'un serveur Ubuntu
 
 ### Informations
-- Évaluation : formative
 - Type de travail : individuel
 - Durée : 1 heure
 - Système d'exploitation : Linux Ubuntu serveur 24.04 ou plus récent.
@@ -15,25 +14,6 @@ Cet exercice a pour objectifs :
 
 Dans cet exercice, vous allez vous installer un environnement de test. Vous allez utiliser un serveur Linux Ubuntu.
 
-## Pour vérification
-
-Vous devez remettre dans un document un comparatif entre la VM cliente et la VM serveur au niveau suivant :  
-
-| Item |    Valeur Client   | Valeur serveur|
-| ---- |    -------------   | ---------------|
-|Processeur |||
-|Mémoire vive |||
-|Nb de processus |||
-|% utilisation des partitions|||
-
-De plus, vous devez mettre dans votre document une capture d’écran de votre serveur avec un shell d’ouvert ayant les commandes suivantes exécutées à l'intérieur :
-
-```bash
-# Les informations à l'ouverture de la session 
-git version
-docker version
-docker compose version
-```
 
 ## Partie 1 : Installation d’Ubuntu 
 Dans cette partie, vous allez installer un serveur Ubuntu selon les spécifications données.
@@ -90,8 +70,6 @@ Reboot Now
 
 Démarrez votre VM et connectez-vous.
 
-**Remise** : Garder une copie de l'écran d'accueil pour votre remise.
-
 ### Mise à jour de votre Ubuntu :
 
 Si vous ne l'avez pas encore fait, lors de la connexion, faites une mise à jour de votre système : 
@@ -107,8 +85,6 @@ sudo apt update && sudo apt upgrade -y
 ```
 df -h
 ```
-
-**Remise** : Prenez en note la valeur importante pour votre remise.
 
 Ici il y a deux partitions qui nous intéressent davantage :
 
@@ -147,8 +123,6 @@ Entrez la commande top
 top 
 ```
 
-**Remise** : Prenez en note la valeur importante pour votre remise.
-
 Pour quitter top entrer q.
 
 ## Partie 3 : Ajout de services et configurations
@@ -178,7 +152,7 @@ Avec ces commandes, vous avez installé Docker, vous avez ajouté votre utilisat
 
 Vous devez relancer votre session  pour que votre utilisateur soit inclus dans le groupe docker.
 
-## Lancez les commandes nécessaires à votre remise :
+Utilisez les commandes suivantes pour vérifier votre installation :
 
 ```bash
 # Les informations à l'ouverture de la session 

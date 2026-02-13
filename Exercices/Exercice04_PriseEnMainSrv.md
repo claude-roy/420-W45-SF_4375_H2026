@@ -1,6 +1,5 @@
 # Exercice 4 - prise en main de votre serveur et accès distant
 
-- Évaluation : formative
 - Type de travail : individuel
 - Durée estimée : 2 heures
 - Système d'exploitation : Linux Ubuntu serveur

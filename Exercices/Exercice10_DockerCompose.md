@@ -360,16 +360,11 @@ services:
 
 Il s'agit d'un exemple simplifié, mais il illustre le principe de base de l'inclusion et comment elle peut faciliter la modularisation d'applications complexes en sous-fichiers Compose. Pour plus d'informations sur l'inclusion et l'utilisation de plusieurs fichiers Compose, consultez la section « [Utiliser plusieurs fichiers Compose](https://docs.docker.com/compose/how-tos/multiple-compose-files/) ».
 
-## Pour vérification
+### Pour vérification de watch
 
 Modifiez le message d'accueil dans `app.py` pour remplacez le message `Hello World from Docker!` par `Hello World from Votre_nom!` et enregistrez-le.  
 
 Actualisez l'application dans votre navigateur. Le message d'accueil devrait être mis à jour, et le compteur devrait continuer à s'incrémenter.  
-
-Remettre une capture d’écran de votre site Application dans l'espace travaux, sur LÉA.
-
-![Exemple de vérification.](../images/Exerc10.png)
-
 
 ### Étapes 8 : Expérimentez d'autres commandes
 

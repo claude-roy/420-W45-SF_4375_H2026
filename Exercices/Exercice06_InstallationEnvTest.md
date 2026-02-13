@@ -1,7 +1,5 @@
 # Exercice 6 - Installation d'un environnement de tests sur site
 
-
-- Évaluation : formative
 - Type de travail : individuel
 - Durée estimée : 2 heures
 - Système d'exploitation : Linux Ubuntu client et serveur
@@ -18,11 +16,6 @@ Ici, nous aurons les composants suivants :
 - Nginx : serveur Web  
 - MySQL : serveur de bases de données  
 - PHP : Langage de programmation.
-
-## Pour vérification
-Remettre une capture d’écran de votre navigateur avec la page **_info.php_** affichée.  
-
-N'oubliez pas, je dois pouvoir identifier votre VMs.
 
 ## Mise à jour du système
 
@@ -88,6 +81,7 @@ Voici le résultat attendu :
 
 ![mon résultat](../images/espace.png)
 </details>
+<br>
 
 - Procédez à la mise à jour du serveur.
 

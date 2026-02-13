@@ -1,6 +1,5 @@
 # Exercice 8 - Docker : image
 
-- Évaluation : formative
 - Durée estimée : 2 heures
 - Système d'exploitation : Ubuntu Client 
 - Environnement : docker
