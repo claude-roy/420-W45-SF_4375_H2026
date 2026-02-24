@@ -201,7 +201,7 @@ Dans cette partie, vous allez ajouter les logiciels wget, curl, git, Visual Stud
 a- Nous allons installer les outils de base wget, curl et git. Pour ceux qui le désire, vous pouvez également ajouter vim.
 
 ```bash
-sudo apt install wget curl git vim -y
+sudo apt install wget curl git firefox vim -y
 ```
 
 b. Installez Visual Studio Code (https://code.visualstudio.com/) ou VSCodium (https://vscodium.com) et suivez les instructions pour Linux Ubuntu.
@@ -335,3 +335,4 @@ Note : les compétences sont développées en partie.
 - LVM : [https://access.redhat.com/documentation/fr-fr/red_hat_enterprise_linux/6/html/logical_volume_manager_administration/index](https://access.redhat.com/documentation/fr-fr/red_hat_enterprise_linux/6/html/logical_volume_manager_administration/index)
 - zsh : [https://kifarunix.com/install-and-setup-zsh-and-oh-my-zsh-on-ubuntu-20-04/](https://kifarunix.com/install-and-setup-zsh-and-oh-my-zsh-on-ubuntu-20-04/)
 - Powerlevel10k : [https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+
