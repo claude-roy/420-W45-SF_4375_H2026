@@ -38,7 +38,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |26|  12 juin<br>**Teams**<br>Claude |Travail sur les exercices|||
 |27|  2 juillet<br>**Teams**<br>Claude |Automatisation PlayBook|Ex19 **(ER)**||
 |28|  8 juillet<br>**Teams**<br>Claude |Travail sur les exercices|||
-|29|  9 juillet<br>**Teams**<br>Claude |**Évaluation finale à caractère synthèse**|| **Exercice 19 **|
+|29|  9 juillet<br>**Teams**<br>Claude |**Évaluation finale à caractère synthèse**|| **Exercice 19**|
 |30| 13 juillet<br>P-408<br>Claude |**Évaluation finale à caractère synthèse**|| **EFCS**|
 
 ### Récapitulatif de la pondération des évaluations sommatives
