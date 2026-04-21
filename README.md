@@ -19,7 +19,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |7|	10 avril<br>P-408<br>Emmanuel  |Docker	 |[Ex7](Exercices/Exercice07_PriseEnMainConteneur.md) **(ER)**| **TP1**|
 |8|	14 avril<br>P-408<br>Emmanuel  |Docker file	 |[Ex8](Exercices/Exercice08_DockerImage.md) ||
 |9|	 17 avril<br>P-408<br>Emmanuel |Docker Réseau et volume|[Ex9](Exercices/Exercice09_DockerRzEtVolume.md) | **Exercice 7**|
-|10| 21 avril<br>P-408<br>Emmanuel |**TP 2 - Docker** |**TP2**|(TPs/TP2.md)|
+|10| 21 avril<br>P-408<br>Emmanuel |**TP 2 - Docker** |[**TP2**](TPs/TP2.md)|
 |11| 24 avril<br>P-408<br>Emmanuel |**TP 2 - Docker** | ||
 |12| 1 mai<br>P-408<br>Emmanuel |Docker compose |[Ex10](Exercices/Exercice10_DockerCompose.md)| **TP2**|
 |13| 5 mai<br>P-408<br>Emmanuel |Présentation du service de résolution de nom DNS |[Ex11](Exercices/Exercice11_DNS.md)||
