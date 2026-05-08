@@ -26,7 +26,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |14| 8 mai<br>P-408<br>Emmanuel|Révision	 |||
 |15| 12 mai<br>P-408<br>Emmanuel |**Examen partiel** |**Examen 1**||  
 |16| 13 mai<br>P-408<br>Claude |Apache, installation, config de base|[Ex12](Exercices/Exercice12_Apache.md) ||
-|17| 14 mai<br>P-409<br>Claude |Apache, modules et SSL	 |Ex13 **(ER)**||
+|17| 14 mai<br>P-409<br>Claude |Apache, modules et SSL	 |[Ex13](Exercices/Exercice13_Apache_modules-SSL.md) **(ER)**||
 |18|  21 mai<br>**Teams**<br>Claude|Apache, installation d’un site Web et site virtuel|Ex14||
 |19| 22 mai<br>P-409<br>Claude |Nginx, installation, config de base|Ex15||
 |20| 27 mai<br>P-408<br>Claude |Nginx, configurations avancées (reverse proxy et load balancer) |Ex16||  
