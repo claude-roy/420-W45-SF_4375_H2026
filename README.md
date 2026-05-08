@@ -28,7 +28,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |16| 13 mai<br>P-408<br>Claude |Apache, installation, config de base|[Ex12](Exercices/Exercice12_Apache.md) ||
 |17| 14 mai<br>P-409<br>Claude |Apache, modules et SSL	 |[Ex13](Exercices/Exercice13_Apache_modules-SSL.md) **(ER)**||
 |18|  21 mai<br>**Teams**<br>Claude|Apache, installation d’un site Web et site virtuel|[Ex14](Exercices/Exercice14_Apache_SiteVirtuel.md) ||
-|19| 22 mai<br>P-409<br>Claude |Nginx, installation, config de base|Ex15||
+|19| 22 mai<br>P-409<br>Claude |Nginx, installation, config de base|[Ex15](Exercices/Exercice15_nginx.md) ||
 |20| 27 mai<br>P-408<br>Claude |Nginx, configurations avancées (reverse proxy et load balancer) |Ex16||  
 |21| 28 mai<br>P-408<br>Claude |**TP3 - Mise en place d’un service Web (Docker Compose)**|TP3||
 |22|  2 juin<br>**Teams**<br>Claude|**TP3 - Mise en place d’un service Web (Docker Compose)**|||
