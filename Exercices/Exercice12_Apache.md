@@ -277,8 +277,8 @@ On voit le listage du répertoire de documents par défaut. On peut également c
 On voit l'information contenue dans le document index.html, on ne voit plus le listage du répertoire.   
 </details>
 <br>
-- Déplacez-vous dans le répertoire de configuration d’Apache. Ouvrez le fichier de configuration ```httpd.conf```.  
-- Rechercher la ligne avec une directive pour les journaux d'accès : ```#CustomLog "logs/access_log" combined```.  
+- Déplacez-vous dans le répertoire de configuration d’Apache. Ouvrez le fichier de configuration <code>httpd.conf</code>.  
+- Rechercher la ligne avec une directive pour les journaux d'accès : <code>#CustomLog "logs/access_log" combined</code>.  
 - Ajouter la directive sur la ligne en dessous pour que nos journaux contiennent les traces des connexions :  
 
 ```CustomLog "logs/access_log" common```  
