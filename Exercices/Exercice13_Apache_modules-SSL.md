@@ -424,7 +424,7 @@ Dans cette partie, nous allons ajouter le chiffrement TLS (souvent encore appel�
 #### Générer un certificat
 
 -	Pour générer un certificat, nous allons utiliser openssl. La commande est la suivante 
-(sous Windows, vous devez installer openssl, [https://www.sneppets.com/software/how-to-install-openssl-in-windows-10-64-bit-operating-system/](https://www.sneppets.com/software/how-to-install-openssl-in-windows-10-64-bit-operating-system/)) :
+(sous Windows, vous devez installer openssl, [https://slproweb.com/products/Win32OpenSSL.html](https://slproweb.com/products/Win32OpenSSL.html)) :
 
 ```bash
 openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout server.key -out server.crt
