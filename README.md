@@ -33,7 +33,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |21| 28 mai<br>P-408<br>Claude |**TP3 - Mise en place d’un service Web (Docker Compose)**|TP3||
 |22|  2 juin<br>**Teams**<br>Claude|**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |23| 5 juin<br>P-408<br>Claude  |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
-|24|  9 juin<br>**Teams**<br>Claude|Automatisation et Ansible|Ex17||
+|24|  9 juin<br>**Teams**<br>Claude|Automatisation et Ansible|[Ex17](Exercices/Exercice17_AnsibleMiseEnPlace.md) ||
 |25|  11 juin<br>**Teams**<br>Claude|Automatisation mode AdHoc|Ex18 **(ER)**||
 |26|  12 juin<br>**Teams**<br>Claude|Travail sur les exercices|||
 |27|  2 juillet<br>**Teams**<br>Claude|Automatisation PlayBook|Ex19||
