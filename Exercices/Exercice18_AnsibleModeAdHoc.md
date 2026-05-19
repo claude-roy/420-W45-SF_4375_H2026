@@ -308,6 +308,10 @@ Remarquer les points suivants pour chacune des machines :
     - Mémoire vive   
     - etc.  
 
+## Pour vérification  
+
+Remettre le fichier ```setup.txt``` de la section précédente.  
+
 ## Référence :  
 
 [Documentation officielle d'Ansible](https://docs.ansible.com/ansible/latest/getting_started/index.html)  
