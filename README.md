@@ -36,7 +36,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |24|  9 juin<br>**Teams**<br>Claude|Automatisation et Ansible|[Ex17](Exercices/Exercice17_AnsibleMiseEnPlace.md) ||
 |25|  11 juin<br>**Teams**<br>Claude|Automatisation mode AdHoc|[Ex18](Exercices/Exercice18_AnsibleModeAdHoc.md) **(ER)**||
 |26|  12 juin<br>**Teams**<br>Claude|Travail sur les exercices|||
-|27|  2 juillet<br>**Teams**<br>Claude|Automatisation PlayBook|Ex19||
+|27|  2 juillet<br>**Teams**<br>Claude|Automatisation PlayBook|[Ex19](Exercices/Exercice19_AnsiblePlaybook.md) ||
 |28|  8 juillet<br>**Teams**<br>Claude |Travail sur les exercices|||
 |29|  9 juillet<br>**Teams**<br>Claude|**Évaluation finale à caractère synthèse**|||
 |30| 13 juillet<br>P-408<br>Claude |**Évaluation finale à caractère synthèse**|||
