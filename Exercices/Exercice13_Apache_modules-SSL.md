@@ -566,3 +566,62 @@ Note : les compétences sont développées en partie.
 <https://docs.docker.com/compose/compose-file/>  
 <https://docs.docker.com/engine/reference/builder/>  
 <https://www.sslshopper.com/article-how-to-create-and-install-an-apache-self-signed-certificate.html>  
+<https://linuxvox.com/blog/creating-a-self-signed-ssl-certificate/>  
+
+
+## Annexe : Informations sur les certificats  
+
+Pour éviter les avertissements du navigateur, installez le certificat auto-signé comme autorité de certification (CA) racine de confiance sur les machines clientes.
+
+### Windows (Chrome)  
+
+Double-cliquez sur `server.crt` > ```Install Certificate```.
+
+Sélectionnez ```Current User``` or ```Local Machine``` (pour tous les utilisateurs).
+
+Choisissez ```Place all certificates in the following store > Browse >``` Sélectionnez ```Trusted Root Certification Authorities```.
+
+Cliquez sur ```Finish``` et confirmez l’invite de sécurité.
+
+### macOS (Chrome)  
+
+Double-cliquez sur ```server.crt``` pour ouvrir l’accès à ```Keychain```.
+
+Faites glisser le certificat vers le ```Keychain```  ```System``` (et non vers ```Login```).
+
+Cliquez avec le bouton droit sur ```certificate``` > ```Get Info``` > développer ```Trust```.
+
+Définissez ```When using this certificate``` à ```Always Trust```.  
+
+### Linux (Chrome)  
+
+Utiliser le magasin d’autorités de certification (CA store) du système. Copiez ```server.crt``` dans ```/usr/local/share/ca-certificates/``` et exécutez :
+
+```bash
+sudo update-ca-certificates
+```  
+
+### Firefox  
+
+Firefox possède son propre magasin de CA.  
+
+Allez dans ```about:preferences#privacy```, puis ```View Certificates > Authorities > Import``` sélectionnez ```server.crt``` et cochez ```"Trust this CA to identify websites."```.  
+
+### Fichier pem ou pkcs12  
+
+Si vous avez besoin d'un fichier ```pem``` :
+
+```bash   
+cat server.crt server.key > server.pem
+```  
+
+Si vous avez besoin d'un fichier ```pkcs12``` :
+
+```bash  
+openssl pkcs12 -export -in server.crt -inkey server.key -out server.p12
+# Vous devrez entrer un mot de passe pour le chiffrement du fichier server.p12
+```
+
+### Se créer un CA  
+
+Si vous voulez vous créer un CA, vous pouvez consulter le site Web suivant : <https://www.blog.brightcoding.dev/2025/07/21/generate-local-ssl-certificates-and-save-localhost-a-developer-friendly-guide/>
