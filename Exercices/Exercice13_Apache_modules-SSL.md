@@ -605,7 +605,7 @@ sudo update-ca-certificates
 
 Firefox possède son propre magasin de CA.  
 
-Allez dans ```about:preferences#privacy```, puis ```View Certificates > Authorities > Import``` sélectionnez ```server.crt``` et cochez ```"Trust this CA to identify websites."```.  
+Allez dans ```about:preferences#privacy```, puis ```Manage Certificates > Authorities > Import``` sélectionnez ```server.crt``` et cochez ```"Trust this CA to identify websites."```.  
 
 ### Fichier pem ou pkcs12  
 
