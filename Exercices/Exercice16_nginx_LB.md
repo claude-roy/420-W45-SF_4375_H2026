@@ -305,7 +305,7 @@ services:
       - DB_PASSWD=rootpassword
     volumes:
       - ./monsite/html:/usr/share/nginx/html
-  apache:
+  nginx:
     image: nginx:alpine
     depends_on:
       - php
