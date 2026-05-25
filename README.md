@@ -30,7 +30,7 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |18|  21 mai<br>**Teams**<br>Claude|Apache, installation d’un site Web et site virtuel|[Ex14](Exercices/Exercice14_Apache_SiteVirtuel.md) ||
 |19| 22 mai<br>P-409<br>Claude |Nginx, installation, config de base|[Ex15](Exercices/Exercice15_nginx.md) ||
 |20| 25 mai<br>P-408<br>Claude |Nginx, configurations avancées (reverse proxy et load balancer) |[Ex16](Exercices/Exercice16_nginx_LB.md) ||  
-|21| 27 mai<br>P-408<br>Claude |**TP3 - Mise en place d’un service Web (Docker Compose)**|TP3||
+|21| 27 mai<br>P-408<br>Claude |**TP3 - Mise en place d’un service Web (Docker Compose)**|[TP3](TPs/TravailPratique03.md) ||
 |22|  2 juin<br>**Teams**<br>Claude|**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |23| 5 juin<br>P-408<br>Claude  |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |24|  9 juin<br>**Teams**<br>Claude|Automatisation et Ansible|[Ex17](Exercices/Exercice17_AnsibleMiseEnPlace.md) ||
