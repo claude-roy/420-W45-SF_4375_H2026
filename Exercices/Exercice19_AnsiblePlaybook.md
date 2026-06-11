@@ -53,7 +53,7 @@ cd webapp/
 
 ### 2- Suivre son code source sur GitHub  
 
-Créez le projet sur Github.com, en ne mettant PAS de Readme. Il vaut mieux l’ajouter après, une fois que les fichiers ont été téléchargés, pour éviter tout conflit.  
+Créez un projet public sur Github.com, en ne mettant PAS de Readme. Il vaut mieux l’ajouter après, une fois que les fichiers ont été téléchargés, pour éviter tout conflit.  
 
 Sur le poste de contrôle :  
 
@@ -590,6 +590,11 @@ Que retrouvez-vous dans le fichier lorsque vous essayez de le consulter sur gith
 	Le ficher est chiffrer, donc on ne peut pas lire les informations à l'intérieur.
 </details>  
 
+## Pour vérification  
+
+Vous devez fournir (déposé sur Léa) :  
+
+- L'adresse de votre dépôt GitHub dans un fichier **texte**.   
 
 ## Références  
 [Documentation Ansible pour ```group_vars```](https://docs.ansible.com/ansible/latest/inventory_guide/intro_inventory.html#organizing-host-and-group-variables)  

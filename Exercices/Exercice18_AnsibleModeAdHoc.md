@@ -308,9 +308,6 @@ Remarquer les points suivants pour chacune des machines :
     - Mémoire vive   
     - etc.  
 
-## Pour vérification  
-
-Remettre le fichier ```setup.txt``` de la section précédente.  
 
 ## Référence :  
 
