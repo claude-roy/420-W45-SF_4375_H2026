@@ -34,9 +34,9 @@ Ce calendrier est donné à titre indicatif et peut être modifié en fonction d
 |22|  2 juin<br>**Teams**<br>Claude|**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |23| 5 juin<br>P-408<br>Claude  |**TP3 - Mise en place d’un service Web (Docker Compose)**|||
 |24|  9 juin<br>**Teams**<br>Claude|Automatisation et Ansible|[Ex17](Exercices/Exercice17_AnsibleMiseEnPlace.md) ||
-|25|  11 juin<br>**Teams**<br>Claude|Automatisation mode AdHoc|[Ex18](Exercices/Exercice18_AnsibleModeAdHoc.md) **(ER)**||
+|25|  11 juin<br>**Teams**<br>Claude|Automatisation mode AdHoc|[Ex18](Exercices/Exercice18_AnsibleModeAdHoc.md) ||
 |26|  12 juin<br>**Teams**<br>Claude|Travail sur les exercices|||
-|27|  2 juillet<br>**Teams**<br>Claude|Automatisation PlayBook|[Ex19](Exercices/Exercice19_AnsiblePlaybook.md) ||
+|27|  2 juillet<br>**Teams**<br>Claude|Automatisation PlayBook|[Ex19](Exercices/Exercice19_AnsiblePlaybook.md) **(ER)**||
 |28|  8 juillet<br>**Teams**<br>Claude |Travail sur les exercices|||
 |29|  9 juillet<br>**Teams**<br>Claude|**Évaluation finale à caractère synthèse**|||
 |30| 13 juillet<br>P-408<br>Claude |**Évaluation finale à caractère synthèse**|||
